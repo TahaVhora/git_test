@@ -1,1 +1,1 @@
-Start a local train between citie and suburbs to avoid rentals.
+Start a local train between cities and suburbs to avoid rentals.
